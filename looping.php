@@ -16,3 +16,10 @@ do{
     echo 'Looping Do-While saya bernilai : ' .$b. "</br>";
     $b++;
 }while($b <= 10);
+
+
+//looping for
+
+for ($i=1; $i<10; $i++){
+    echo 'Looping For saya bernilai : ' .$i. "</br>";
+}
